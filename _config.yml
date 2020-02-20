@@ -8,8 +8,8 @@ email: momo736929286@gmail.com
 description: ""
 keyword: ""
 # url: "https://www.dh.cn"              # your host, for absolute URL
-baseurl: "/dh_blog"  
-imgurl: "/dh_blog/assets/img"
+baseurl: "/dh"  
+imgurl: "/dh/assets/img"
 # baseurl: ""                             # 本地调试使用
 # imgurl: "/assets/img"
 
